@@ -17,12 +17,19 @@ var colors = [
   ['red', 'blue'],
   ['red', 'green'],
   ['red', 'orange'],
+  ['red', 'black'],
   ['yellow', 'blue'],
   ['yellow', 'green'],
   ['yellow', 'orange'],
+  ['yellow', 'black'],
   ['purple', 'blue'],
   ['purple', 'green'],
-  ['purple', 'orange']
+  ['purple', 'orange'],
+  ['purple', 'black'],
+  ['black', 'blue'],
+  ['black', 'green'],
+  ['black', 'orange'],
+  ['black', 'purple']
 ]
 
 var newColors = []
